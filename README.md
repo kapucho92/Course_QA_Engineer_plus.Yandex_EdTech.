@@ -1,1 +1,1 @@
-# QA-Student.-.-
+# Course "QA Engineer plus". Yandex EdTech.
